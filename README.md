@@ -1,5 +1,4 @@
-TODO::
+bootstrap_rails_helper
+======================
 
-* new/create, edit/update actions share same page.
-* Nested field in resource configuration
-* Single nested resource path
+Simple rails helper to construct bootstrap components
